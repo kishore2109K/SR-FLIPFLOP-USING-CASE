@@ -33,6 +33,7 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=S+R′Q(t)Q(t+1)=S+R′Q(t)
 
 **Procedure**
+
 STEP 1:Type the program in Quartus software.
 
 STEP 2:Compile and run the program.
@@ -77,5 +78,6 @@ endmodule
 ![image](https://github.com/kishore2109K/SR-FLIPFLOP-USING-CASE/assets/152274619/9563a0af-383a-4191-88a7-828fc8392f2a)
 
 **RESULTS**
+
 Therefore the code has been successfully executed.
 
